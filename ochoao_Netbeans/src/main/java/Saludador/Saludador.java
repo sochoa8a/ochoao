@@ -1,4 +1,4 @@
-package com.mycompany.ejercicios;
+package Saludador;
 
 import javax.swing.JOptionPane;
 
