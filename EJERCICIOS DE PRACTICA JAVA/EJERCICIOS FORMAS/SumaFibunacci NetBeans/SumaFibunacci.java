@@ -146,6 +146,7 @@ public class SumaFibunacci extends javax.swing.JFrame {
 			 x = x + anterior;
 			 anterior = temp;
 			JOptionPane.showMessageDialog(this, "Suma fibunacci " + x);
+                        
 		}
     }//GEN-LAST:event_btnCalcularMouseClicked
 
